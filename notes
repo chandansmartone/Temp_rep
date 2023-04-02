@@ -1,0 +1,21 @@
+Node JS -environment to run JS outside Browser
+ built on chromes V8 JS engine
+ big community
+ Full-stack
+ dis-
+ no doms
+ no windows
+adv-
+ filesystem
+ versions
+ CommonJS
+
+
+require used to access exported things
+
+modules
+-OS
+-Path
+-FS
+-HTTP
+
