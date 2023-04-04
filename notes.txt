@@ -1,0 +1,32 @@
+node  JS -environment to run JS outside Browser
+ built on chromes V8 JS engine
+ big community
+ Full-stack
+ dis-
+ no doms
+ no windows
+adv-
+ filesystem
+ versions
+ CommonJS
+
+
+require used to access exported things
+
+modules
+-OS
+-Path
+-FS
+-HTTP
+
+to push into git
+git init
+git add .
+git commit -m "first commit"
+copy and paste repository link
+
+npm run dev -for nodemon
+git clone
+
+JavaScript Promise Object
+A JavaScript Promise object contains both the producing code and calls to the consuming code:
